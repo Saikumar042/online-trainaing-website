@@ -1,0 +1,35 @@
+<!--header start -->
+<?php include 'header.php'; ?>
+<!--header start End-->
+<div class="container text-center p-5">
+      <!-- Title -->
+      <div class="w-md-80 w-lg-50 mx-auto mt-5">
+        <h1 class="text-white">
+          <span class="font-weight-semi-bold text-dark">Blogs</span>
+        </h1>
+      </div>
+      <!-- End Title -->
+    </div>
+ <div class="container">
+<hr>
+<img src="https://i1.wp.com/conwayhall.org.uk/wp-content/uploads/2020/02/OP29.jpg">
+<h2>Article related to the you click</h2>
+<p>This post was written by Conway Hall Library & Archives volunteer, Paula Przybylowicz, who has been researching the pacifist ethics of our namesake Moncure Conway. This is the second part; part one can be found here.
+
+By 1863, at the age of 31, Moncure Conway had served as a circuit rider, preached against war as a Unitarian minister in Washington, and become a renowned figure of the abolitionist movement in America. That year, he was sent to England to represent the abolitionist leaders, a mission which, nonetheless, ended when he surpassed his responsibilities by negotiating with a Confederate representative, James Murray Mason.
+
+After the Mason incident, Moncure Conway travelled to Venice, where he joined his wife and children, and soon after returned to America. By that time, Conway’s pacifist principles had gotten stronger. He was exempt of military service because of his poor sight, but ultimately “would sooner be shot than shoot anybody”. For him, Southern slaves were the “only innocent party”, and he condemned the fact that they had been forced into a conflict for the interests of white, free men. After a short period in his native country, Conway decided that as long as America were militant, there would be no place for him there, so he and his family moved to London, where he took up his role as minister of South Place Chapel, now Conway Hall.
+<span>
+	<img src="https://i2.wp.com/conwayhall.org.uk/wp-content/uploads/2020/02/OP263.jpg">
+	<p>Conway’s life in London orbited around his ministry at South Place Chapel (the Ethical Society’s previous home), writing and publishing, and his involvement in English intellectual circles. He also participated in the Peace Society in London and co-operated with its leader, Hodgson Pratt, who was also the president of the International League of Peace and Arbitration in Europe. Between 1870 and 1871, Conway worked as a war correspondent during the Franco-Prussian War, an experience which cemented his anti-war beliefs.
+
+In 1897, following his wife’s death, Conway settled in Paris. As happened with the Civil War, he didn’t want to be engaged in a belligerent country and, at this time, the United States was fighting with Spain for the independence of Cuba. In France, Conway continued to work for the project of peace. His writings were distributed at the Universal Peace Congress at Paris, in 1900, where he proposed a plan to secure an unofficial arbitration by the most prominent jurists and publicists of all nations on disputes that threatened peace. He believed that no war would happen if decided in a fair trial by a tribunal. On this proposal, he wrote:
+
+“Although aggressiveness and blood-thirst seemed “universal” in several nations, there is distributed through these and all nations a moral and peaceful nation, and my aim was to organize this moral nation sufficiently to reinforce the peace party in each country threatening war, by bringing to its aid the judgement of the best </p>
+</span>
+</p>
+</div>
+
+<!-- Footer Section Start -->
+<?php include 'Footer.php'; ?>
+<!--Footer End  -->
